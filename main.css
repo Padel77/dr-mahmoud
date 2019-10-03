@@ -497,7 +497,7 @@
 /*end service*/
 /*start testim*/
 .testim{
-    background-image: url(../image/pa.jpg);    
+    background-image: url(pa.jpg);    
     height: 400px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
